@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/aminurislamarnob/aminurislamarnob/blob/main/rsz_ai-arnob-1.jpg"/>
 
 <!--
 **aminurislamarnob/aminurislamarnob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
