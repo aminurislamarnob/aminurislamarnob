@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://github.com/aminurislamarnob/aminurislamarnob/blob/main/rsz_ai-arnob-1.jpg"/>
+<a href="https://aiarnob.com/portfolio/" target="_blank"><img src="https://github.com/aminurislamarnob/aminurislamarnob/blob/main/ai-arnob-1.jpg" alt="Aminur Islam Arnob"/></a>
+<a href="https://aiarnob.com/contact-me/" target="_blank"><img src="https://github.com/aminurislamarnob/aminurislamarnob/blob/main/ai-arnob-2.jpg" alt="Contact With Me"/></a>
 
 <!--
 **aminurislamarnob/aminurislamarnob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
