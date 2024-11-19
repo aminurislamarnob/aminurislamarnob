@@ -9,8 +9,8 @@ With extensive experience in front-end and back-end development, I specialize in
 * ✉️  You can contact me at [aminur.arnob@gmail.com](mailto:aminur.arnob@gmail.com)
 * 🚀  I'm currently working on [weLabs](https://wedevs.com/welab/)
 * 🧠  I'm currently learning Gutenberg Block Development & FSE Theme Development
+* ⚡  Actively contributing to WordPress plugin development on [WordPress.org](http://profiles.wordpress.org/aminurislam01/)
 * 🤝  I'm open to collaborating on any open source popular WordPress themes & plugins
-* ⚡  Currently, I’m contributing to the [Plugin Composer](https://github.com/codeiolab/plugin-composer)
 
 ### Languages, Frameworks & Tools
 
