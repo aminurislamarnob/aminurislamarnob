@@ -22,11 +22,11 @@ With extensive experience in front-end and back-end development, I specialize in
 
 ### Published Plugins on WordPress.org
 
-* WP Change Email Sender (10,000+ Active Installations) [Check Now](https://wordpress.org/plugins/wp-change-email-sender/)
-* WP Login and Logout Redirect (7,000+ Active Installations) [Check Now](https://wordpress.org/plugins/wp-login-and-logout-redirect/)
-* Metadata Viewer (10+ Active Installations) [Check Now](https://wordpress.org/plugins/metadata-viewer/)
-* JobPress (10+ Active Installations) [Check Now](https://wordpress.org/plugins/jobpress/)
-* Customer Management for Dokan (10+ Active Installations) [Check Now](https://wordpress.org/plugins/dokan-customers/)
+* [WP Change Email Sender](https://wordpress.org/plugins/wp-change-email-sender/) (10,000+ Active Installations)
+* [WP Login and Logout Redirect](https://wordpress.org/plugins/wp-login-and-logout-redirect/) (7,000+ Active Installations)
+* [Metadata Viewer](https://wordpress.org/plugins/metadata-viewer/) (10+ Active Installations)
+* [JobPress](https://wordpress.org/plugins/jobpress/) (10+ Active Installations)
+* [Customer Management for Dokan](https://wordpress.org/plugins/dokan-customers/) (10+ Active Installations)
 
 
 ### Connect with Me
