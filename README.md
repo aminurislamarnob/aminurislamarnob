@@ -26,8 +26,8 @@ With extensive experience in front-end and back-end development, I specialize in
 
 * <kbd><img src="https://ps.w.org/wp-change-email-sender/assets/icon-256x256.png" width="16" height="16" style="border-radius: 4px;" /></kbd> [WP Change Email Sender](https://wordpress.org/plugins/wp-change-email-sender/) (10,000+ Active Installations)
 * <kbd><img src="https://ps.w.org/wp-login-and-logout-redirect/assets/icon-256x256.png" width="16" height="16" style="border-radius: 4px;" /></kbd> [WP Login and Logout Redirect](https://wordpress.org/plugins/wp-login-and-logout-redirect/) (7,000+ Active Installations)
-* <kbd><img src="https://ps.w.org/metadata-viewer/assets/icon-256x256.jpg" width="16" height="16" style="border-radius: 4px;" /></kbd> [Metadata Viewer](https://wordpress.org/plugins/metadata-viewer/) (10+ Active Installations)
-* <kbd><img src="https://ps.w.org/jobpress/assets/icon-256x256.png" width="16" height="16" style="border-radius: 4px;" /></kbd> [JobPress](https://wordpress.org/plugins/jobpress/) (10+ Active Installations)
+* <kbd><img src="https://ps.w.org/metadata-viewer/assets/icon-256x256.jpg" width="16" height="16" style="border-radius: 4px;" /></kbd> [Metadata Viewer](https://wordpress.org/plugins/metadata-viewer/) (100+ Active Installations)
+* <kbd><img src="https://ps.w.org/jobpress/assets/icon-256x256.png" width="16" height="16" style="border-radius: 4px;" /></kbd> [JobPress](https://wordpress.org/plugins/jobpress/) (30+ Active Installations)
 * <kbd><img src="https://s.w.org/plugins/geopattern-icon/dokan-customers.svg" width="16" height="16" style="border-radius: 4px;" /></kbd> [Customer Management for Dokan](https://wordpress.org/plugins/dokan-customers/) (10+ Active Installations)
 
 ### Writing
